@@ -1,8 +1,15 @@
 # AndrewSource/Story
 
 Hi guys,  
-I'm Andrew, I'm trying to write stories. In here I'll put self-written stories, mostly about life experience, I'll make the first line of any story (.md) as the status of the story (finished, unfinished, continue writing). The description of each status will be put below.  
-If you have any suggestions, welcome to knock me at [andrew@andrewsource.usa.cc](mailto:andrew@andrewsource.usa.cc).  
+I'm Andrew, I'm trying to write stories. In here I'll put self-written stories, mostly about life experience, I'll make the first line of any story (.md) as the status of the story (finished, unfinished, continue writing). The description of each status will be put below.
+
+If you have any suggestions, welcome to knock me at [andrew@andrewsource.usa.cc](mailto:andrew@andrewsource.usa.cc).
+
+---
+
+# Story list
+
+  * [Childhood Adventure](childhood-adventure)
 
 ---
 
